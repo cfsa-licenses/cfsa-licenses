@@ -1,4 +1,6 @@
-# CFSA (Control Of Source Access) License Meanings:
+# What is CFSA?
+CFSA (Control Of Source Access) is type of licensing of source-code access from CFSA Corporation.
+# How do i set license for my program?
 ## Start name (Accessibility):
 P4 = Needs to be paid (CFSAL P4OC)
 
