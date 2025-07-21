@@ -33,3 +33,6 @@ NhU = Can't High up license of original program license. (CFSAL FOC-NCU SACiC Nh
 EtoL = Modification license should be equal to original program license. (CFSAL FOC-NCU SACiC EtOL)
 
 - Notes: If Original license tweak isnt added, it means it doesnt matters what modification license it is.
+
+# Examples:
+Windows is Licensed as **CFSAL FNOC**. It's closed source of code, you can't modify it, you can't share it in any way. if you could modify it, you couldn't share it in commercial use, nor the non-commercial.
